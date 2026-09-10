@@ -168,13 +168,29 @@ Frontend dashboard will be accessible at: `http://localhost:5173`
 
 > *Add application screenshots below when publishing to portfolio/GitHub:*
 
-| Executive Dashboard | Reporting & Exports |
-| :---: | :---: |
-| ![Dashboard Overview](docs/screenshots/dashboard.png) | ![Reports Hub](docs/screenshots/reports.png) |
+## 📸 Application Screenshots
 
-| Customers Directory | Products Catalog |
-| :---: | :---: |
-| ![Customers View](docs/screenshots/customers.png) | ![Products View](docs/screenshots/products.png) |
+### Executive Dashboard
+
+![Dashboard Overview](screenshots/dashboard1.png)
+
+![Dashboard Analytics](screenshots/dashboard2.png)
+
+### Reports & Exports
+
+![Revenue Report](screenshots/report.png)
+
+![Detailed Report](screenshots/report2.png)
+
+### Customers & Products
+
+![Customer Directory](screenshots/customer.png)
+
+![Reports and Products](screenshots/report%20and%20product.png)
+
+### Orders
+
+![Orders Management](screenshots/order.png)
 
 ---
 
